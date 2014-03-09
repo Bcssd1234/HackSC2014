@@ -11,3 +11,9 @@
 *.lai
 *.la
 *.a
+
+# Special files
+*.pro
+HackSC2014
+Makefile
+moc_main_window.cpp
