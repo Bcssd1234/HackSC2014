@@ -1,0 +1,26 @@
+#ifndef DEFINITIONS_H
+#define DEFINITIONS_H
+
+#define TWO_WALL_PROB			34
+#define LEFT_WALL_ONLY_PROB		33
+#define RIGHT_WALL_ONLY_PROB	33
+
+#define OBSTACLE_PROB			50
+
+#define VIEW_HEIGHT 			800
+#define VIEW_WIDTH				400
+#define EXTRA_SCENE_SPACE		400
+
+#define PLAYER_MOVE_DIST		25
+#define SCROLL_MOVE_DIST		15
+
+#define PLAYER_HEIGHT			100
+#define PLAYER_WIDTH			50
+
+#define WALL_HEIGHT				200
+#define WALL_WIDTH				50
+
+#define OBSTACLE_HEIGHT			50
+#define OBSTACLE_WIDTH			50
+
+#endif
